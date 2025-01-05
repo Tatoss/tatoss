@@ -1,6 +1,57 @@
-# 💫 About Me:
-## Hi there 👋, I'm Thato Ramoshaba!<br><br>### 🌟 About Me<br>I am a passionate **Web and Mobile App Developer** with expertise in:<br>- **Web Development:** PHP, JavaScript, HTML, CSS, Bootstrap, WordPress<br>- **Mobile Development:** React, Node.js<br>- **API Integration & Plugin Creation**<br>- **Python:** Currently diving into Data Science and Virtual Reality with the **Tryon System**<br><br>I thrive on creating innovative solutions, whether it's building robust web applications or crafting seamless mobile app experiences. I'm always eager to learn and take on new challenges.<br><br>---<br><br>### 🔭 Projects I've Worked On<br>Here are a few highlights of the projects I've been part of:<br>- [**Loan Management System**](https://github.com/Tatoss/loan-management-system): Streamlined loan application and payment processes.<br>- [**Photography System**](https://github.com/Tatoss/photography-management-system): A mobile and web solution for event-specific photo sharing.<br>- [**Shopping Basket**](https://github.com/Tatoss/basketshop): A web and mobile platform for price comparism system.<br>- [**LevelUp200**](https://levelup200.co.za/): An investment system turning R200 into R1500 through teamwork and referrals.<br>- [**Township Market**](https://www.townshipmarket.co.za/): An online flea market for diverse goods and services.<br>- [**Tryon System**](https://github.com/tatoss): A virtual reality experience using Python.<br><br>---<br><br>### 🌱 Current Endeavors<br>- **Learning:** Data Science and Virtual Reality<br>- **Building:** Innovative projects in PHP and Python<br>- **Exploring:** Opportunities in advanced API integrations and AI-driven solutions<br><br>---<br><br>### 💬 Ask Me About<br>- Full-stack web and mobile app development<br>- Plugin creation for WordPress<br>- Virtual Reality projects with Python<br>- Transforming ideas into scalable software solutions<br><br>---<br><br>### 📫 Let's Connect!<br>- GitHub: [tatoss](https://github.com/tatoss)<br>- Email: [thatosramoshaba@gmail.com](mailto:thatosramoshaba@gmail.com)<br>- LinkedIn: [Thato Ramoshaba](https://www.linkedin.com/in/thatoramoshaba)<br><br>---<br><br>### ⚡ Fun Fact<br>When I'm not coding, I love exploring new tech trends and finding creative ways to solve real-world problems. I'm also a big fan of collaboration—let's create something amazing together!<br><br>---<br><br>
+# 💫 Hi there 👋, I'm Thato Ramoshaba!  
 
+Welcome to my GitHub profile! I'm a passionate **Web and Mobile App Developer** who loves building innovative solutions and tackling real-world challenges through code.  
+
+---
+
+## 🌟 About Me  
+I specialize in:  
+- **Web Development:** PHP, JavaScript, HTML, CSS, Bootstrap, WordPress  
+- **Mobile Development:** React, Node.js  
+- **API Integration & Plugin Creation**  
+- **Python Enthusiast:** Currently exploring Data Science and Virtual Reality through the **Tryon System**  
+
+I thrive on creating user-friendly, scalable applications and exploring cutting-edge technologies.  
+
+---
+
+## 🔭 Projects I've Worked On  
+Here are a few highlights from my journey:  
+- [**Loan Management System**](https://github.com/Tatoss/loan-management-system): Simplified loan applications and payment tracking.  
+- [**Photography System**](https://github.com/Tatoss/photography-management-system): Event-specific photo-sharing platform.  
+- [**Shopping Basket**](https://github.com/Tatoss/basketshop): A price comparison system for web and mobile.  
+- [**LevelUp200**](https://levelup200.co.za/): An investment platform turning R200 into R1500 through teamwork.  
+- [**Township Market**](https://www.townshipmarket.co.za/): An online flea market for diverse goods and services.  
+- [**Tryon System**](https://github.com/tatoss): A Python-powered virtual reality project.  
+
+---
+
+## 🌱 What I'm Currently Working On  
+- **Learning:** Data Science and Artificial Intelligence  
+- **Building:** Virtual Reality experiences with Python  
+- **Exploring:** Advanced API integrations and scalable PHP-based systems  
+
+---
+
+## 💬 Ask Me About  
+- Full-stack web and mobile app development  
+- Plugin creation for WordPress  
+- Virtual Reality projects with Python  
+- Turning ideas into scalable software solutions  
+
+---
+
+## 📫 How to Reach Me  
+- **GitHub:** [tatoss](https://github.com/tatoss)  
+- **Email:** [thatosramoshaba@gmail.com](mailto:thatosramoshaba@gmail.com)  
+- **LinkedIn:** [Thato Ramoshaba](https://www.linkedin.com/in/thatoramoshaba)  
+
+---
+
+## ⚡ Fun Fact  
+When I’m not coding, I’m diving into new tech trends or brainstorming creative solutions to everyday problems. I’m always up for collaboration—let’s create something extraordinary together!  
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thato-ramoshaba-25a778235) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Thatosrams) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Thatosrams) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Thatosr) 
@@ -27,5 +78,7 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/thatos) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tramoshaba) 
 
+
+Thanks for visiting my profile! 🚀  
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
